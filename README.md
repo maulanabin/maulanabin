@@ -4,7 +4,6 @@
 ## I'm a Informatics Student 
 
 - :sparkles: Sprinkling kindness everywhere I go
-- :cherry_blossom: I’m currently learning everything
 
 ### Connect with me:
 [<img align="left" alt="maulanabin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
