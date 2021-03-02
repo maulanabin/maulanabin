@@ -6,7 +6,6 @@
 - :sparkles: Sprinkling kindness everywhere I go
 
 ### Connect with me:
-[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)]
-[linkedin]: https://www.linkedin.com/in/maulanabintangirfansyah/
 
-<br />
+[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)]
+(https://linkedin.com/in/maulanabintangirfansyah)
