@@ -7,6 +7,6 @@
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
 - 🍀 Computer science, Network engineering.
 
-###📬 Connect with me: 
+### 📬 Connect with me: 
 
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/maulanabintangirfansyah) 
