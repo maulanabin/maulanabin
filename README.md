@@ -5,7 +5,7 @@
 
 - :sparkles: Sprinkling kindness everywhere I go.
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
-- 🍀 Computer science, Network Engineering.
+- 🍀 Computer science, Network engineering.
 
 ###📬 Connect with me: 
 
