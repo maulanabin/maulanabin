@@ -6,11 +6,7 @@
 - :sparkles: Sprinkling kindness everywhere I go
 
 ### Connect with me:
-[<img align="left" alt="maulanabin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/maulanabintangirfansyah/
+[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)]
+(https://www.linkedin.com/in/maulanabintangirfansyah)
 
 <br />
-
-### Languages:
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
