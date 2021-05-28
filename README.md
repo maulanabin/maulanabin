@@ -1,8 +1,5 @@
 ### Hi there, I'm Maulana :raising_hand:
 
-
-## I'm a Informatics Student from Politeknik Negeri Malang.
-
 - :sparkles: Sprinkling kindness everywhere I go.
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
 - 🍀 Computer science, Network engineering.
