@@ -6,4 +6,6 @@
 
 ### 📬 Connect with me: 
 
-[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/maulanabintangirfansyah) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/maulanabintangirfansyah)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:maulana.bintang.irfansyah@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/maulanabint/)
