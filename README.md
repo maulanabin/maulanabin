@@ -2,6 +2,9 @@
 - :sparkles: Sprinkling kindness everywhere I go.
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
 - 🍀 Computer science, Network engineering.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
+
 ### :computer: Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
@@ -20,4 +23,4 @@
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
 
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
+
