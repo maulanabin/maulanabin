@@ -9,6 +9,8 @@
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <br>
+    <img src="https://camo.githubusercontent.com/903368d15a5cf52b569a00d5e52a91988777f9cb1da3570da17a26741cf14225/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446174614772697026636f6c6f723d303030303030266c6f676f3d4461746147726970266c6f676f436f6c6f723d464646464646266c6162656c3d" /> <br>
+    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" /> <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
 </p>
 
