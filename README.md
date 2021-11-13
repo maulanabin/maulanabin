@@ -3,6 +3,8 @@
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
 - 🍀 Computer science, Network engineering.
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
+
 ### :computer: Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
@@ -14,35 +16,16 @@
 
 </p>
 
-### :books: Languages:
-<p align="right">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-
-</p>
-
-### :card_file_box: Databases:
-<p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
-    
-</p>
-
 <details>
   <summary> ⚡ GitHub Stats</summary>
   <img align="left" alt="Soham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&hide_border=true" />
 </details>
 <br>
-<details>
+<details> 
   <summary> ⚡ Most Used Languages</summary>
 <img align="left" alt="Soham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin" />
 </details>
-
+<br>
 ### 📬 Connect with me: 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:maulana.bintang.irfansyah@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/maulanabint/)
@@ -53,6 +36,3 @@
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
-
