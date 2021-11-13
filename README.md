@@ -16,16 +16,6 @@
 
 </p>
 
-<details>
-  <summary> ⚡ GitHub Stats</summary>
-  <img align="left" alt="Soham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&hide_border=true" />
-</details>
-<br>
-<details> 
-  <summary> ⚡ Most Used Languages</summary>
-<img align="left" alt="Soham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin" />
-</details>
-
 ### 📬 Connect with me: 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:maulana.bintang.irfansyah@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/maulanabint/)
@@ -36,3 +26,15 @@
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
+
+
+<details>
+  <summary> ⚡ GitHub Stats</summary>
+  <img align="left" alt="Soham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&hide_border=true" />
+</details> <br>
+
+<details> 
+  <summary> ⚡ Most Used Languages</summary>
+<img align="left" alt="Soham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin" />
+</details>
+
