@@ -25,7 +25,7 @@
   <summary> ⚡ Most Used Languages</summary>
 <img align="left" alt="Soham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin" />
 </details>
-<br>
+
 ### 📬 Connect with me: 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:maulana.bintang.irfansyah@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/maulanabint/)
