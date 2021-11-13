@@ -3,8 +3,6 @@
 - 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
 - 🍀 Computer science, Network engineering.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
-
 ### :computer: Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
@@ -18,6 +16,7 @@
 
 ### :books: Languages:
 <p>
+    ### :books: Languages:
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br>
@@ -28,7 +27,7 @@
 </p>
 
 ### :card_file_box: Databases:
-<p align="right" >
+<p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
@@ -56,4 +55,5 @@
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
 
