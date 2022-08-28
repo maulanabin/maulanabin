@@ -1,38 +1,64 @@
-### Hi there, I'm Maulana :raising_hand:
-- :sparkles: Sprinkling kindness everywhere I go.
-- 💖 Passions: Cooking, Gardening, Volunteering, Making friends, and Cat lover.
-- 🍀 Computer science, Network engineering.
+<h2> Hello! I'm Maulana. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!--
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="400" height="auto" />
+Here are some ideas to get you started:
 
-### :computer: Tools:
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <br>
-    <img src="https://camo.githubusercontent.com/903368d15a5cf52b569a00d5e52a91988777f9cb1da3570da17a26741cf14225/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446174614772697026636f6c6f723d303030303030266c6f676f3d4461746147726970266c6f676f436f6c6f723d464646464646266c6162656c3d" /> <br>
-    <img src="https://camo.githubusercontent.com/98a4e11d3aab048aaa62df8b064720a7eb5104a642ad57885ae09862167c4278/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50687053746f726d26636f6c6f723d303030303030266c6f676f3d50687053746f726d266c6f676f436f6c6f723d464646464646266c6162656c3d" /> <br>
-    <img src="https://camo.githubusercontent.com/c05a246fa2e1f60805ece5c251f8aab6f0cc4bfe520a9722fbb3d076f9307929/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b436f6c616226636f6c6f723d323232323232266c6f676f3d476f6f676c652b436f6c6162266c6f676f436f6c6f723d463941423030266c6162656c3d" /> <br>
-    <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-FF9E0F?style=plastic&logo=MSSQLServerManagement&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### 📬 Connect with me: 
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/maulanabint/)
+<!-- [nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png) -->
+<img src="https://user-images.githubusercontent.com/56204095/119273842-fa634e00-bc36-11eb-9acf-d95a7944bce5.png" display="float" align="right" width="450">
 
-<!-- <img align="left" alt="Maulana Github Stats" src="https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&hide_border=true" />
- -->
+___
+
+I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international.
+
+💻 I’m currently learning <b>Flutter, Laravel, and Algorithms</b>
+
+📫 How to reach me: <b>you can reach me in social media anything</b>
+
+💬 Ask me about anything via social media, I am very happy to answer it</b>
+___
+
+***My Social Media***
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maulanabint)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lanabin06)
+
+***most of the progress***
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+___
+
+[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&count_private=true&theme=radical)](https://github.com/maulanabin/github-readme-stats)
+<br/></br>
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
 
-
-<details>
-  <summary> ⚡ GitHub Stats</summary>
-  <img align="left" alt="Soham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&hide_border=true" />
-</details> <br>
-
-<details> 
-  <summary> ⚡ Most Used Languages</summary>
-<img align="left" alt="Soham's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin" />
-</details>
-
+<div align="center">
+  <p><b>Have a good day!</b></p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
