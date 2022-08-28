@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ___
 
-I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international.
+I am an undergraduate Informatics Engineering student at State Polytechnic of Malang, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international.
 
 💻 I’m currently learning <b>Flutter, Laravel, and Algorithms</b>
 
