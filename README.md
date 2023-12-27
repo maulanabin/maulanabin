@@ -53,12 +53,6 @@ ___
 
 ___
 
-[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&count_private=true&theme=radical)](https://github.com/maulanabin/github-readme-stats)
-<br/></br>
-<p>
-    <img src="https://gpvc.arturio.dev/maulanabin" />
-</p>
-
 <div align="center">
   <p><b>Have a good day!</b></p>
 <div>
