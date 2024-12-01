@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ___
 
-I am an undergraduate Informatics Engineering student at State Polytechnic of Malang, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international.
+I am a graduate Informatics and Computer Engineering student at Electronic Engineering Polytechnic Institute of Surabaya. I am interested in the field of technology and have aspirations of establishing a technology start-up company internationally.
 
-💻 I’m currently learning <b>Springboot & React</b>
+💻 I’m currently learning <b>Cloud Infrastructure Design (Virtual computing environments deployment, Software-defined network (SDN) deployment, Experiments on widely distributed systems, and Resource management)</b>
 
 📫 How to reach me: <b>you can reach me in social media anything</b>
 
-💬 Ask me about anything via social media, I am very happy to answer it</b>
+💬 Ask me about anything via social media, and I am delighted to answer it</b>
 ___
 
 ***My Social Media***
