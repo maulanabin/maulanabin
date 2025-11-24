@@ -22,14 +22,6 @@ I am a graduate Informatics and Computer Engineering student at Electronic Engin
 
 💻 I’m currently learning <b>Cloud Infrastructure Design (Virtual computing environments deployment, Software-defined network (SDN) deployment, Experiments on widely distributed systems, and Resource management)</b>
 
-📫 How to reach me: <b>you can reach me in social media anything</b>
-
-💬 Ask me about anything via social media, and I am delighted to answer it</b>
-___
-
-***My Social Media***
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mbi_lanabin)
 
 ***most of the progress***
 
